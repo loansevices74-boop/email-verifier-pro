@@ -1,5 +1,5 @@
-streamlit==1.32.0
-dnspython==2.6.1
-pandas==2.2.1
-openpyxl==3.1.2
-pypdf==4.1.0
+streamlit
+dnspython
+pandas
+openpyxl
+pypdf
